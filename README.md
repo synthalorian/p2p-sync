@@ -1,3 +1,5 @@
+![MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8)
+
 # P2P Sync
 
 > *"Your files. Your LAN. No cloud, no accounts, no telemetry. Just sync."*
@@ -76,3 +78,11 @@ Subsequent connections are automatic.
 ---
 
 *Sync happens in the shadows of your network. The cloud never knows.*
+
+---
+
+## ☕ Support the Developer
+
+If this project saved you time, solved a problem, or just made your day a little more neon, you can fuel the next one:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/synthalorian)
