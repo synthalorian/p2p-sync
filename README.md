@@ -1,4 +1,4 @@
-![MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8)
+![Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green.svg) ![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8)
 
 # P2P Sync
 
