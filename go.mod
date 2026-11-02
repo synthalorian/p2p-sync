@@ -3,7 +3,7 @@ module github.com/synth/p2p-sync
 go 1.25.0
 
 require (
-	github.com/fsnotify/fsnotify v1.7.0
+	github.com/fsnotify/fsnotify v1.10.1
 	github.com/grandcat/zeroconf v1.0.0
 )
 
